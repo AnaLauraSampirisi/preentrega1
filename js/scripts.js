@@ -62,5 +62,5 @@ if (clienta == 1) {
 } else if (clienta == 2) {
     alert("Carrito de compras no disponible por el momento. Muchas gracias por su visita!");
 } else {
-    alert("Por favor comuníquese con nosotros. Muchas gracias!")
+    alert("Por favor comuníquese con nosotros. Muchas gracias!");
 }
